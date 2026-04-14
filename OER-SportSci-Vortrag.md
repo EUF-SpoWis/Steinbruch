@@ -5,14 +5,13 @@ version: 0.0.1
 language: de
 narrator: Deutsch Female
 
-import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch//refs/heads/main/config.md
-
+import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/refs/heads/main/config.md
 -->
 
 ## OER-SportSci Grundlagen und Anwendungsbeispiele
 
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/main/OER-SportSci-Vortrag.md.md#1)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/main/OER-SportSci-Vortrag.md#1)
 
 | Parameter                | Kursinformationen                                                                               |
 | ------------------------ | ----------------------------------------------------------------------------------------------- |
@@ -20,10 +19,12 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch//refs/heads/mai
 | **Semester:**            | @config.semester                                                                                |
 | **Hochschule:**          | `Europa-Universität Flensburg`                                                                  |
 | **Inhalte:**             | `Sportwissenschaftliche Methoden mit Fokus auf qualitative Forschungsmethoden`                  |
-| **Link auf GitHub:**     | https://github.com/EUF-SpoWis/M1_Einfuehrung_Sportwissenschaft/blob/main/05_Quantitatives_Forschen.md      |
+| **Link auf GitHub:**     | https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/refs/heads/main/OER-SportSci-Vortrag.md      |
 | **Autoren:**             | @author                                                                                         |
 
 > (c) Alle Rechte vorbehalten. 
+
+
 
 
 ## Qualitative und quantitative Forschungsmethoden
