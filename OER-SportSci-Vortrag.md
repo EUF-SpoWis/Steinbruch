@@ -88,7 +88,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/refs/heads/main
 | ------------------------ | ----------------------------------------------------------------------------------------------- |
 | **Inhalt:**              | @config.lecture                                                                                 |
 | **Datum:**               | @config.semester                                                                                |
-| **Tagung:**              | `Pitch-Event im Rahmen der Statuskonferenz OER im Blick`                                        |
+| **Tagung:**              | `Pitch-Event im Rahmen der Statuskonferenz OER im Blick in Köln`                                        |
 | **Link auf GitHub:**     | https://github.com/EUF-SpoWis/Steinbruch/blob/main/OER-SportSci-Vortrag.md                      |
 | **Autoren:**             | @author                                                                                         |
 
