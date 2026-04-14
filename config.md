@@ -8,7 +8,7 @@ icon: https://upload.wikimedia.org/wikipedia/commons/8/82/Europa-universitaet-fl
 comment:  This file provides commonly used meta information for all LiaScript courses in the folder
 
 @config.semester:   `29. April 2026`
-@config.lecture:    `Sportdidaktik und Schulsportforschung`
+@config.lecture:    `Illustrierende Materialien und Beispiele zum Vortrag`
 
 -->
 
