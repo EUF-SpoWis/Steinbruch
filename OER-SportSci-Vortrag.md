@@ -10,7 +10,6 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/refs/heads/main
 
 ## OER-SportSci Grundlagen und Anwendungsbeispiele
 
-
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/main/OER-SportSci-Vortrag.md#1)
 
 | Parameter                | Informationen                                                                                   |
@@ -18,7 +17,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/refs/heads/main
 | **Inhalt:**              | @config.lecture                                                                                 |
 | **Datum:**               | @config.semester                                                                                |
 | **Tagung:**              | `Pitch-Event im Rahmen der Statuskonferenz OER im Blick`                                        |
-| **Link auf GitHub:**     | https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/refs/heads/main/OER-SportSci-Vortrag.md |
+| **Link auf GitHub:**     | https://github.com/EUF-SpoWis/Steinbruch/blob/main/OER-SportSci-Vortrag.md                      |
 | **Autoren:**             | @author                                                                                         |
 
 ## Qualitative und quantitative Forschungsmethoden
