@@ -21,8 +21,6 @@ l
 | **Link auf GitHub:**     | https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/refs/heads/main/OER-SportSci-Vortrag.md |
 | **Autoren:**             | @author                                                                                         |
 
-> (c) Alle Rechte vorbehalten. 
-
 
 
 
