@@ -5,7 +5,7 @@ version: 0.0.1
 language: de
 narrator: Deutsch Female
 
-import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/OER-SportSci-Vortrag.md
+import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch//refs/heads/main/config.md
 
 -->
 
