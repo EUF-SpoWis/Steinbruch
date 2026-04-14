@@ -15,10 +15,9 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/refs/heads/main
 
 | Parameter                | Kursinformationen                                                                               |
 | ------------------------ | ----------------------------------------------------------------------------------------------- |
-| **Veranstaltung:**       | @config.lecture                                                                                 |
-| **Semester:**            | @config.semester                                                                                |
+| **Inhalt:**       | @config.lecture                                                                                 |
+| **Datum:**            | @config.semester                                                                                |
 | **Hochschule:**          | `Europa-Universität Flensburg`                                                                  |
-| **Inhalte:**             | `Sportwissenschaftliche Methoden mit Fokus auf qualitative Forschungsmethoden`                  |
 | **Link auf GitHub:**     | https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/refs/heads/main/OER-SportSci-Vortrag.md      |
 | **Autoren:**             | @author                                                                                         |
 
