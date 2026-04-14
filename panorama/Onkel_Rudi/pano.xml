@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18076" appversion="6.1.12" start="node3">
+  <panorama id="node3">
+    <input leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1920" overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" width="1920">
+      <level height="1920" width="1920" predecode="0" preload="0"/>
+      <level height="960" width="960" predecode="0" preload="0"/>
+      <level height="480" width="480" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" fov="100" tilt="0" pan="0"/>
+      <flyin projection="4" fov="100" tilt="-1.69" pan="-55.93"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata author="" comment="" latitude="" heading="0" source="" info="" datetime="2021:06:14 10:30:40" customnodeid="" tags="Onkel Rudi" description="" copyright="" title="" longitude="" nodeid="node3"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" textcolor="0x000000" border="1" enabled="1" height="20" textalpha="1" borderradius="1" background="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot url="{node5}" skinid="ht_node" description="" target="40.5/-8.7/100.0" id="Point01" tilt="0.51" title="Trampoline" pan="-38.35"/>
+      <hotspot url="" skinid="ht_info" description="Ausgang Markusstraße" target="" id="Point02" tilt="4.6" title="Ausgang" pan="-189.5"/>
+      <hotspot url="" skinid="ht_info" description="Ausgang Kita Markusstraße" target="" id="Point03" tilt="2.41" title="Ausgang" pan="-293.97"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" softedge="0" enabled="1" zoomspeed="2" zoomafteroutfov="20" zoomfov="20" zoomout="0" zoomafterinfov="90" zoomin="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" invertwheel="0" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" lockedmouse="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" lockedkeyboard="0" sensitivity="8" speedwheel="1" rubberband="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1920" overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" width="1920">
+      <level height="1920" width="1920" predecode="0" preload="0"/>
+      <level height="960" width="960" predecode="0" preload="0"/>
+      <level height="480" width="480" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" fov="100" tilt="0" pan="0"/>
+      <flyin projection="4" fov="70" tilt="-11.92" pan="12.11"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata author="" comment="" latitude="" heading="0" source="" info="" datetime="2021:06:14 09:52:42" customnodeid="" tags="Onkel Rudi" description="" copyright="" title="" longitude="" nodeid="node5"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" textcolor="0x000000" border="1" enabled="1" height="20" textalpha="1" borderradius="1" background="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot url="{node3}" skinid="ht_node" description="" target="-151.2/-3.1/100.0" id="Point01" tilt="0.87" title="Kletterwald" pan="-141.75"/>
+      <hotspot url="{node4}" skinid="ht_node" description="" target="129.2/7.4/100.0" id="Point02" tilt="1.84" title="Spielzaun" pan="-179.93"/>
+      <hotspot url="{node1}" skinid="ht_node" description="" target="-156.4/1.0/100.0" id="Point03" tilt="1.05" title="Karussell" pan="-227.36"/>
+      <hotspot url="{node2}" skinid="ht_node" description="" target="-100.7/-1.0/100.0" id="Point04" tilt="5.79" title="Rutsche" pan="-264.66"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" softedge="0" enabled="1" zoomspeed="2" zoomafteroutfov="20" zoomfov="20" zoomout="0" zoomafterinfov="90" zoomin="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" invertwheel="0" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" lockedmouse="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" lockedkeyboard="0" sensitivity="8" speedwheel="1" rubberband="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1920" overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" width="1920">
+      <level height="1920" width="1920" predecode="0" preload="0"/>
+      <level height="960" width="960" predecode="0" preload="0"/>
+      <level height="480" width="480" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" fov="100" tilt="0" pan="0"/>
+      <flyin projection="4" fov="70" tilt="-6.23" pan="72"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata author="" comment="" latitude="" heading="0" source="" info="" datetime="2021:06:14 10:26:17" customnodeid="" tags="Onkel Rudi" description="" copyright="" title="" longitude="" nodeid="node4"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" textcolor="0x000000" border="1" enabled="1" height="20" textalpha="1" borderradius="1" background="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot url="{node3}" skinid="ht_node" description="" target="-120.7/2.7/100.0" id="Point01" tilt="1.73" title="Kletterwald" pan="-108.68"/>
+      <hotspot url="{node5}" skinid="ht_node" description="" target="18.9/-1.1/100.0" id="Point02" tilt="1.01" title="Trampoline" pan="-32.38"/>
+      <hotspot url="{node2}" skinid="ht_node" description="" target="-178.3/-6.4/100.0" id="Point03" tilt="5.04" title="Rutsche" pan="-335.82"/>
+      <hotspot url="" skinid="ht_info" description="Ausgang Kita Markusstraße" target="" id="Point04" tilt="4.25" title="Ausgang" pan="-222.26"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" softedge="0" enabled="1" zoomspeed="2" zoomafteroutfov="20" zoomfov="20" zoomout="0" zoomafterinfov="90" zoomin="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" invertwheel="0" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" lockedmouse="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" lockedkeyboard="0" sensitivity="8" speedwheel="1" rubberband="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1920" overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" width="1920">
+      <level height="1920" width="1920" predecode="0" preload="0"/>
+      <level height="960" width="960" predecode="0" preload="0"/>
+      <level height="480" width="480" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" fov="100" tilt="0" pan="0"/>
+      <flyin projection="4" fov="70" tilt="-31.11" pan="35.04"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata author="" comment="" latitude="" heading="0" source="" info="" datetime="2021:06:14 10:16:08" customnodeid="" tags="Onkel Rudi" description="" copyright="" title="" longitude="" nodeid="node2"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" textcolor="0x000000" border="1" enabled="1" height="20" textalpha="1" borderradius="1" background="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot url="{node1}" skinid="ht_node" description="" target="-91.9/-8.1/100.0" id="Point01" tilt="-6.89" title="Nestschaukel" pan="-45.97"/>
+      <hotspot url="{node5}" skinid="ht_node" description="" target="-36.1/-4.1/100.0" id="Point02" tilt="-5.05" title="Trampoline" pan="-297.63"/>
+      <hotspot url="{node3}" skinid="ht_node" description="" target="-173.1/4.7/100.0" id="Point03" tilt="-2.88" title="Kletterwald" pan="-326.23"/>
+      <hotspot url="{node4}" skinid="ht_node" description="" target="-174.0/-2.0/100.0" id="Point04" tilt="-2.04" title="Spielzaun" pan="-355.27"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" softedge="0" enabled="1" zoomspeed="2" zoomafteroutfov="20" zoomfov="20" zoomout="0" zoomafterinfov="90" zoomin="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" invertwheel="0" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" lockedmouse="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" lockedkeyboard="0" sensitivity="8" speedwheel="1" rubberband="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1920" overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" width="1920">
+      <level height="1920" width="1920" predecode="0" preload="0"/>
+      <level height="960" width="960" predecode="0" preload="0"/>
+      <level height="480" width="480" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" fov="100" tilt="0" pan="0"/>
+      <flyin projection="4" fov="70" tilt="-7.27" pan="39.07"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata author="" comment="" latitude="" heading="0" source="" info="" datetime="2021:06:14 10:07:04" customnodeid="" tags="Onkel Rudi" description="" copyright="" title="" longitude="" nodeid="node1"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" textcolor="0x000000" border="1" enabled="1" height="20" textalpha="1" borderradius="1" background="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot url="{node4}" skinid="ht_node" description="" target="-112.9/-3.5/100.0" id="Point01" tilt="0.87" title="Spielzaun" pan="-12.1"/>
+      <hotspot url="{node2}" skinid="ht_node" description="" target="125.3/9.4/100.0" id="Point02" tilt="5.64" title="Rutsche" pan="-280.24"/>
+      <hotspot url="{node5}" skinid="ht_node" description="" target="-9.7/3.6/100.0" id="Point03" tilt="1.81" title="Trampoline" pan="-316.32"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" softedge="0" enabled="1" zoomspeed="2" zoomafteroutfov="20" zoomfov="20" zoomout="0" zoomafterinfov="90" zoomin="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" invertwheel="0" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" lockedmouse="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" lockedkeyboard="0" sensitivity="8" speedwheel="1" rubberband="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" comment="" latitude="" heading="0" source="" info="" datetime="" customnodeid="" tags="" description="" copyright="" title="" longitude="" nodeid="master"/>
+  </masternode>
+</tour>

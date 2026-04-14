@@ -8,10 +8,11 @@ narrator: Deutsch Female
 import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/refs/heads/main/config.md
 -->
 
-## OER-SportSci Grundlagen und Anwendungsbeispiele
+# OER-SportSci
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/main/OER-SportSci-Vortrag.md#1)
 
+<!-- data-type="none" -->
 | Parameter                | Informationen                                                                                   |
 | ------------------------ | ----------------------------------------------------------------------------------------------- |
 | **Inhalt:**              | @config.lecture                                                                                 |
@@ -20,9 +21,11 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/refs/heads/main
 | **Link auf GitHub:**     | https://github.com/EUF-SpoWis/Steinbruch/blob/main/OER-SportSci-Vortrag.md                      |
 | **Autoren:**             | @author                                                                                         |
 
-## Qualitative und quantitative Forschungsmethoden
+## Grundlagen
 
-### Quantitative Verfahren
+![Illustration](img/Vorlesung_Liascript_Gemini.png "Illustration des Arbeitens mit Liascript und GitHub")
+
+## Anwendungsbeispiel I
 
 #### Hyothesen
 
@@ -141,11 +144,43 @@ Mit diesen Informationen können wir einen "standardisierten Mittelwertunterschi
 <p><a href="https://www.geogebra.org/m/nvgjbxj7" target="_blank" style="font-weight:bold;"> GeoGebra im Vollbild öffnen</a></p>
 
 
+## Anwendungsbeispiel II 
 
+> Arbeitsauftrag: Erkunde die folgenden Spielplätze. Nutze dafür dein Wissen über das SUPA. Welche positiven und welche negativen Beobachtungen machst du? 
 
+**Spielplatz 1**
 
+<iframe
+  src="https://euf-spowis.github.io/MEd_M1_Sportdidaktik/panorama/Großer_Spielplatz/index.html"
+  width="100%"
+  height="600"
+  style="border: none;"
+  allowfullscreen>
+</iframe>
 
+<figcaption>
+© 2020 Frederik Bükers – 360°-Aufnahme eines Hamburger Spielplatzes.  
+</figcaption>
 
+**Spielplatz 2** 
+
+<iframe
+  src="https://euf-spowis.github.io/MEd_M1_Sportdidaktik/panorama/Onkel_Rudi/index.html"
+  width="100%"
+  height="600"
+  style="border: none;"
+  allowfullscreen>
+</iframe>
+
+<figcaption>
+© 2020 Frederik Bükers – 360°-Aufnahme eines Hamburger Spielplatzes.  
+</figcaption>
+
+## Quellen
+
+- Bükers, F., & Heemsoth, T. (2022). Barrierefreiheit von Schulhöfen durch Analysebeispiele identifizieren lernen. Qualifizierung für Inklusion, 4(1). https://doi.org/10.21248/qfi.80 
+- Bükers, F., & Wibowo, J. (2020). Barrierefreiheit von Sporthallen. German Journal of Exercise and Sport Research, 50(1), 71–81. https://doi.org/10.1007/s12662-019-00636-8 
+- Wibowo, Jonas (2021). Geräteraum-Management in der Sporthalle. Zugriff am 16.02.2026 unter https://wimasu.de/geraeteraum-manager/
 
 
 
