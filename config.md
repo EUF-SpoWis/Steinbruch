@@ -8,7 +8,7 @@ icon: https://upload.wikimedia.org/wikipedia/commons/8/82/Europa-universitaet-fl
 comment:  This file provides commonly used meta information for all LiaScript courses in the folder
 
 @config.semester:   `29. April 2026`
-@config.lecture:    `Illustrierende Materialien und Beispiele zum Vortrag`
+@config.lecture:    `Illustrierende Materialien und Beispiele zum Projekt OER-SportSci`
 
 -->
 
@@ -16,5 +16,5 @@ comment:  This file provides commonly used meta information for all LiaScript co
 
 ```
 @config.semester:   `29. April 2026`
-@config.lecture:    `Illustrierende Materialien und Beispiele zum Vortrag`
+@config.lecture:    `Illustrierende Materialien und Beispiele zum Projekt OER-SportSci`
 ```

@@ -10,19 +10,6 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/refs/heads/main
 
 # OER-SportSci
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/main/OER-SportSci-Vortrag.md#1)
-
-<!-- data-type="none" -->
-| Parameter                | Informationen                                                                                   |
-| ------------------------ | ----------------------------------------------------------------------------------------------- |
-| **Inhalt:**              | @config.lecture                                                                                 |
-| **Datum:**               | @config.semester                                                                                |
-| **Tagung:**              | `Pitch-Event im Rahmen der Statuskonferenz OER im Blick`                                        |
-| **Link auf GitHub:**     | https://github.com/EUF-SpoWis/Steinbruch/blob/main/OER-SportSci-Vortrag.md                      |
-| **Autoren:**             | @author                                                                                         |
-
-## Grundlagen
-
 ![Illustration](img/Vorlesung_Liascript_Gemini.png "Illustration des Arbeitens mit Liascript und GitHub; Bild generiert mit KI (Gemini 3.0)")
 
 ## Anwendungsbeispiel I: Hypothesen testen
@@ -91,6 +78,19 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/refs/heads/main
 <figcaption>
 © 2020 Frederik Bükers – 360°-Aufnahme eines Hamburger Spielplatzes.  
 </figcaption>
+
+## Hintergrundinformationen
+
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/main/OER-SportSci-Vortrag.md#1)
+
+<!-- data-type="none" -->
+| Parameter                | Informationen                                                                                   |
+| ------------------------ | ----------------------------------------------------------------------------------------------- |
+| **Inhalt:**              | @config.lecture                                                                                 |
+| **Datum:**               | @config.semester                                                                                |
+| **Tagung:**              | `Pitch-Event im Rahmen der Statuskonferenz OER im Blick`                                        |
+| **Link auf GitHub:**     | https://github.com/EUF-SpoWis/Steinbruch/blob/main/OER-SportSci-Vortrag.md                      |
+| **Autoren:**             | @author                                                                                         |
 
 
 
