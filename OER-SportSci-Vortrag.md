@@ -9,7 +9,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/OER-SportSci-Vo
 
 -->
 
-## How do we catch our cats? - Quantitatives Forschen
+## OER-SportSci Grundlagen und Anwendungsbeispiele
 
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/main/OER-SportSci-Vortrag.md.md#1)
