@@ -12,22 +12,33 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/refs/heads/main
 
 ![Illustration](img/Vorlesung_Liascript_Gemini.png "Illustration des Arbeitens mit Liascript und GitHub; Bild generiert mit KI (Gemini 3.0)")
 
-## Wirksamkeit eines Trainings statistisch überprüfen
+## Anwendungsbeispiel I: Wirksamkeit eines Trainings statistisch überprüfen
 
-<img src="img/Trainingsmessung.png" 
-     alt="Illustration des Arbeitens mit Liascript und GitHub" 
-     title="Illustration des Arbeitens mit Liascript und GitHub; Bild generiert mit KI (Chat-GPT)" 
-     width="200">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-> **Arbeitsauftrag**
->Berechne den t-Wert und überprüfe mit Hilfe der Geogebra-Simulation die folgende Hypothese: 
-> 
-> **Das Training mit *Wonder-Power* ist einem *Standardtraining* überlegen.** 
-> 
->| Gruppe                   | Mittelwert | Standardabweichung |
->|--------------------------|------------|--------------------|
->| Wonder-Power (N = 15)    | 2.40       | (0.99)             |
->| Standardtraining (N = 15)| 0.67       | (0.98)             |
+  <img src="img/Trainingsmessung.png" 
+       alt="Illustration des Arbeitens mit Liascript und GitHub" 
+       title="Illustration des Arbeitens mit Liascript und GitHub; Bild generiert mit KI (Chat-GPT)" 
+       width="112">
+
+  <div>
+
+> **Arbeitsauftrag**  
+>
+> Berechne den t-Wert und überprüfe mit Hilfe der GeoGebra-Simulation die folgende Hypothese:  
+>
+> **Das Training mit *Wonder-Power* ist einem *Standardtraining* überlegen.**
+
+  </div>
+
+</div>
+
+
+| Gruppe                   | Mittelwert | Standardabweichung |
+|--------------------------|------------|--------------------|
+| Wonder-Power (N = 15)    | 2.40       | (0.99)             |
+| Standardtraining (N = 15)| 0.67       | (0.98)             |
+
 
 **Geogebra-Simulation zur Berechnung der Signifikanz**
 
@@ -47,7 +58,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/refs/heads/main
 <p><a href="https://www.geogebra.org/m/nvgjbxj7" target="_blank" style="font-weight:bold;"> GeoGebra im Vollbild öffnen</a></p>
 
 
-## Bewegungsräume beobachten
+## Anwendungsbeispiel II: Bewegungsräume beobachten
 
 > **Arbeitsauftrag**
 >
