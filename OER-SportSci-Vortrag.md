@@ -12,27 +12,13 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/refs/heads/main
 
 ![Illustration](img/Vorlesung_Liascript_Gemini.png "Illustration des Arbeitens mit Liascript und GitHub; Bild generiert mit KI (Gemini 3.0)")
 
-## Anwendungsbeispiel I: Wirksamkeit eines Trainings statistisch überprüfen
-
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-  <img src="img/Trainingsmessung.png" 
-       alt="Illustration des Arbeitens mit Liascript und GitHub" 
-       title="Illustration des Arbeitens mit Liascript und GitHub; Bild generiert mit KI (Chat-GPT)" 
-       width="112">
-
-  <div>
+## Wirksamkeit eines Trainings statistisch überprüfen
 
 > **Arbeitsauftrag**  
 >
 > Berechne den t-Wert und überprüfe mit Hilfe der GeoGebra-Simulation die folgende Hypothese:  
 >
 > **Das Training mit *Wonder-Power* ist einem *Standardtraining* überlegen.**
-
-  </div>
-
-</div>
-
 
 | Gruppe                   | Mittelwert | Standardabweichung |
 |--------------------------|------------|--------------------|
