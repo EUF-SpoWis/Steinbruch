@@ -19,11 +19,11 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/refs/heads/main
 > Berechne den t-Wert und überprüfe mit Hilfe der GeoGebra-Simulation die folgende Hypothese:  
 >
 > **Das Training mit *Wonder-Power* ist einem *Standardtraining* überlegen.**
-
-| Gruppe                   | Mittelwert | Standardabweichung |
-|--------------------------|------------|--------------------|
-| Wonder-Power (N = 15)    | 2.40       | (0.99)             |
-| Standardtraining (N = 15)| 0.67       | (0.98)             |
+>
+>| Gruppe                   | Mittelwert | Standardabweichung |
+>|--------------------------|------------|--------------------|
+>| Wonder-Power (N = 15)    | 2.40       | (0.99)             |
+>| Standardtraining (N = 15)| 0.67       | (0.98)             |
 
 
 **Geogebra-Simulation zur Berechnung der Signifikanz**
