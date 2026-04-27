@@ -11,8 +11,8 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/refs/heads/main
 # OER-SportSci
 
 >Das Zusatzmaterial zeigt Anwednungsbereiche von **Markdown** und **Liaskript** im Bereich wissenschaftliches Arbeiten:
-> 1. [Hypothesen testen -- Trainingswirksamkeit -- Geogebgra-Simulation](#anwendungsbeispiel-i-wirksamkeit-eines-trainings-statistisch-überprüfen)
-> 2. [Räume boobachten -- Barriereefreiheit -- 360°-Begehung](#anwendungsbeispiel-ii-bewegungsräume-beobachten)
+> 1. [Hypothesen testen -- Trainingswirksamkeit -- Geogebgra-Simulation](#2)
+> 2. [Räume boobachten -- Barriereefreiheit -- 360°-Begehung](#3)
 
 ![Illustration](img/Vorlesung_Liascript_Gemini.png "Illustration des Arbeitens mit Liascript und GitHub; Logos: Markdown © John Gruber · LiaScript Project ·  GitHub © GitHub, Inc.; Bild erstellt mit KI (Gemini 3.0)")
 
