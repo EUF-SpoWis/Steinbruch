@@ -10,6 +10,8 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/refs/heads/main
 
 # OER-SportSci
 
+>Dieses Zusatzmaterila dient der Veranschaulichung von Anwednungsbereichen von Markdown und Liaskript im Bereich sportwissenschafltiches Arbeiten. 
+
 ![Illustration](img/Vorlesung_Liascript_Gemini.png "Illustration des Arbeitens mit Liascript und GitHub; Bild generiert mit KI (Gemini 3.0)")
 
 ## Anwendungsbeispiel I: Wirksamkeit eines Trainings statistisch überprüfen
