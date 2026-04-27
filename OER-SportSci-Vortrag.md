@@ -13,7 +13,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/refs/heads/main
 
 ![Illustration](img/Vorlesung_Liascript_Gemini.png "Illustration des Arbeitens mit Liascript und GitHub; Logos: Markdown © John Gruber · LiaScript Project ·  GitHub © GitHub, Inc.; Bild erstellt mit KI (Gemini 3.0)")
 
->Das Zusatzmaterial zeigt exemplarische Anwendungen von **Markdown** und **LiaScript** im Bereich wissenschaftliches Arbeiten:
+>Dieses Zusatzmaterial zum Vortrag zeigt exemplarische Anwendungen von **Markdown** und **LiaScript** im Bereich wissenschaftliches Arbeiten:
 >1. [Hypothesen testen -- Trainingswirksamkeit -- Geogebra-Simulation](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/main/OER-SportSci-Vortrag.md#2)
 >2. [Räume boobachten -- Barriereefreiheit -- 360°-Begehung](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/main/OER-SportSci-Vortrag.md#3)
 
@@ -108,6 +108,6 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/refs/heads/main
 | ------------------------ | ----------------------------------------------------------------------------------------------- |
 | **Inhalt:**              | @config.lecture                                                                                 |
 | **Datum:**               | @config.semester                                                                                |
-| **Tagung:**              | `Pitch-Event im Rahmen der Statuskonferenz OER im Blick in Köln`                                        |
+| **Tagung:**              | `Pitch-Event im Rahmen der Statuskonferenz OER im Blick in Köln`                                |
 | **Link auf GitHub:**     | https://github.com/EUF-SpoWis/Steinbruch/blob/main/OER-SportSci-Vortrag.md                      |
 | **Autoren:**             | @author                                                                                         |
