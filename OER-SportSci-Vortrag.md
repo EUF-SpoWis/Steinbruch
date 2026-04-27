@@ -10,13 +10,14 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/Steinbruch/refs/heads/main
 
 # OER-SportSci
 
-Das Zusatzmaterial zeigt Anwednungsbereiche von **Markdown** und **Liaskript** im Bereich wissenschaftliches Arbeiten:
-1. [Hypothesen testen -- Trainingswirksamkeit -- Geogebgra-Simulation](#anwendungsbeispiel-i-wirksamkeit-eines-trainings-statistisch-überprüfen)
-2. [Räume boobachten -- Barriereefreiheit -- 360°-Begehung](#anwendungsbeispiel-ii-bewegungsräume-beobachten)
 
 ![Illustration](img/Vorlesung_Liascript_Gemini.png "Illustration des Arbeitens mit Liascript und GitHub; Logos: Markdown © John Gruber · LiaScript Project ·  GitHub © GitHub, Inc.; Bild erstellt mit KI (Gemini 3.0)")
 
-## Anwendungsbeispiel I: Wirksamkeit eines Trainings statistisch überprüfen
+>Das Zusatzmaterial zeigt exemplarische Anwendungen von **Markdown** und **Liaskript** im Bereich wissenschaftliches Arbeiten:
+>1. [Hypothesen testen -- Trainingswirksamkeit -- Geogebra-Simulation](#beispiel-i-wirksamkeit-eines-trainings-statistisch-überprüfen)
+>2. [Räume boobachten -- Barriereefreiheit -- 360°-Begehung](#beispiel-ii-bewegungsräume-beobachten)
+
+## Beispiel I: Wirksamkeit eines Trainings statistisch überprüfen
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
@@ -62,7 +63,7 @@ Das Zusatzmaterial zeigt Anwednungsbereiche von **Markdown** und **Liaskript** i
 <p><a href="https://www.geogebra.org/m/nvgjbxj7" target="_blank" style="font-weight:bold;"> GeoGebra im Vollbild öffnen</a></p>
 
 
-## Anwendungsbeispiel II: Bewegungsräume beobachten
+## Beispiel II: Bewegungsräume beobachten
 
 > **Arbeitsauftrag**
 >
@@ -110,10 +111,3 @@ Das Zusatzmaterial zeigt Anwednungsbereiche von **Markdown** und **Liaskript** i
 | **Tagung:**              | `Pitch-Event im Rahmen der Statuskonferenz OER im Blick in Köln`                                        |
 | **Link auf GitHub:**     | https://github.com/EUF-SpoWis/Steinbruch/blob/main/OER-SportSci-Vortrag.md                      |
 | **Autoren:**             | @author                                                                                         |
-
-
-
-
-
-
-
